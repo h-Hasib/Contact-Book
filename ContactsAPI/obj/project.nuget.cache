@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6qm0yKy7dcqSxUdSdXv24d7zmp2Hdka+3FPY+kb9tW9Rngg9ofhrXc1haIJ8nNzLwE+b+JUcVgCeTnJtc8jLxg==",
+  "dgSpecHash": "42ndKxXQoo0QrP/gdhObqf8FxQgnS6w+WAVQxeAyP8mF9BcMNOdiQ/vF/Ja3vSyrZ/C8ZtcKIPRVxsRgjXJzZw==",
   "success": true,
-  "projectFilePath": "E:\\CODEs\\CSharp_Projects\\API_Project_with_dotNET\\ContactsAPI\\ContactsAPI.csproj",
+  "projectFilePath": "E:\\CODEs\\CSharp_Projects\\git_practice\\Contact-Book\\ContactsAPI\\ContactsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hasib\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hasib\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
